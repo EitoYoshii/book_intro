@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* styles.css */
+
+.mokuji {
+    text-align: center;
+  }
+  
+.mokuji table {
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-collapse: separate;
+    border-spacing: 15px;
+  }
+
+th{
+    border: 1px solid black;
+    background-color: brown;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+}
+
+.mokuji table a{
+    text-decoration: none;
+    color: white;
+}
+
+.bunya{
+    background-color: brown;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0 auto;
+    text-align: center;
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-bottom: 1px;
+    margin-top: 15px;
+}
+
+.owaku{
+    background-color: rgb(242, 242, 181);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0 auto;
+    text-align: center;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+.kowaku{
+    border-bottom: 1px dotted red;
+}
+
+.kokuchi {
+    font-size: larger;
+    color: blueviolet;
+}
